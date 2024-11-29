@@ -1,1 +1,1 @@
-# Seguridad-en-el-trabajo
+# Seguridad en el trabajo
