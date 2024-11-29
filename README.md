@@ -1,5 +1,4 @@
 # Seguridad en el trabajo
-# La Seguridad en el trabajo
 ## Indice
 
 1. [Introduccion](introduccion.md)
