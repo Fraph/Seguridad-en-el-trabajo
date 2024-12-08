@@ -1,6 +1,6 @@
 ## Regulaciones y Legislación en Europa Sobre Seguridad Laboral
 
-### 1. Directiva Marco 89/391/CEE
+### Directiva Marco 89/391/CEE
 
 Esta normativa es el pilar fundamental de la seguridad laboral en **Europa**. Se forma por normas generales y se encarga de definir las responsabilidades tanto de los **empleadores** como de los **trabajadores**:
 
@@ -16,7 +16,7 @@ Esta normativa es el pilar fundamental de la seguridad laboral en **Europa**. Se
 - Utilizar bien los equipos de protección laboral **(EPP)**
 - Informar sobre cualquier riego laboral
 
-## 2. Normas específicas
+## Normas específicas
 
 Existen una serie de normas especificas para cada servicio por la **Organización Internacional Del Trabajo (OIT)**. Unos ejemplos serían;
 
