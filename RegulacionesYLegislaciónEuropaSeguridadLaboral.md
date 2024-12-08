@@ -12,7 +12,7 @@ Esta normativa es el pilar fundamental de la seguridad laboral en **Europa**. Se
 
 -**Trabajadores**: 
 
-- Seguir las instrucciones
+- Siguen las instrucciones de los emprendedores
 - Utilizar bien los equipos de protección laboral **(EPP)**
 - Informar sobre cualquier riego laboral
 
