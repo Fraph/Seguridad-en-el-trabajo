@@ -29,4 +29,6 @@ Existen una serie de normas especificas para cada servicio por la **Organizació
 
   - Ruido: Hay que prestar especial atención al ruido que se puede llegar a producir en oficinas panorámicas o abiertas
 
-  - Iluminación: 
+  - Iluminación: es un factor a tener en cuenta, ya que destinar muchas horas enfrente de una pantalla puede causar problemas visuales
+ 
+  - Y otros factores como la cálidad del aire, los campos electromagnéticos, etc...
