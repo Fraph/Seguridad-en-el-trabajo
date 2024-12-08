@@ -20,9 +20,9 @@ Esta normativa es el pilar fundamental de la seguridad laboral en **Europa**. Se
 
 Existen una serie de normas especificas para cada servicio por la **Organización Internacional Del Trabajo (OIT)**. Vamos a ver unos ejemplos;
 
-- Para sustaciones peligrosas y agentes biológicos (Químicos, agentes biológicos en general)
-- Para el espacio y ambientes de trabajo: es esencial tener buenos diseños de la maquinaria para que haya suficientes espacios de trabajo para los trabajadores
-- Para la prevención de riesgos físicos (ruido, vibraciones, radiaciones ópticas...)
-- Carga Física (evitar trastornos musculoesqueléticos)
+- **Para sustaciones peligrosas y agentes biológicos** (Químicos, agentes biológicos en general)
+- **Para el espacio y ambientes de trabajo:** es esencial tener buenos diseños de la maquinaria para que haya suficientes espacios de trabajo para los trabajadores
+- **Para la prevención de riesgos físicos** (ruido, vibraciones, radiaciones ópticas...)
+- **Carga Física** (evitar trastornos musculoesqueléticos)
 
   
