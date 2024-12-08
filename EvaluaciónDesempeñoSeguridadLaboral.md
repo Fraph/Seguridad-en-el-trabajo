@@ -10,7 +10,7 @@
 
 ## Métodos para Evaluar el Desempeño en Seguridad
 
-#### Indicadores de Desempeño (KPIs):
+### Indicadores de Desempeño (KPIs):
 
 -Accidentes laborales: Cuántos accidentes han ocurrido.
 
@@ -20,16 +20,16 @@
 
 -Cumplimiento de la formación en seguridad: Porcentaje de trabajadores que han tomado la formación obligatoria.
 
-#### Inspecciones y Auditorías:
+### Inspecciones y Auditorías:
 
 - Revisar el estado de las instalaciones, maquinaria y equipos para asegurarse de que cumplen con las normas de seguridad.
   
-#### Evaluación del Comportamiento de los Trabajadores:
+### Evaluación del Comportamiento de los Trabajadores:
 
 - Los supervisores observan si los trabajadores siguen las normas de seguridad.
 - Preguntan a los empleados qué opinan sobre las medidas de seguridad.
 
-#### Revisión por la dirección
+### Revisión por la dirección
 
 - La alta dirección de la organización deberá revisar el Sistema de Gestión de Seguridad y Salud en el Trabajo ISO 45001 en intervalos planificados, para asegurarse de su conveniencia, adecuación y eficacia de forma continua.
   
