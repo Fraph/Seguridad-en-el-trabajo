@@ -13,8 +13,11 @@
 #### Indicadores de Desempeño (KPIs):
 
 -Accidentes laborales: Cuántos accidentes han ocurrido.
+
 -Frecuencia de accidentes: Número de accidentes por cada millón de horas trabajadas.
+
 -Índice de gravedad: Qué tan graves fueron los accidentes (por ejemplo, cuántos días de trabajo se perdieron).
+
 -Cumplimiento de la formación en seguridad: Porcentaje de trabajadores que han tomado la formación obligatoria.
 
 #### Inspecciones y Auditorías:
