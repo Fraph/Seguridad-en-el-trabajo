@@ -12,13 +12,13 @@ Su objetivo es evitar accidentes y enfermedades laborales mediante prácticas co
 
 Una gestión efectiva de la prevención no solo garantiza el bienestar de los empleados, sino que también mejora la productividad y crea un ambiente laboral seguro y eficiente.
 
-## Los riesgos laborales y su prevencion en el ambito informatico
+## Los riesgos laborales en el mbito informatico.
 
 En el ámbito de la informática, los riesgos laborales incluyen problemas físicos como lesiones por movimientos repetitivos, fatiga visual, y malas posturas, así como riesgos psicológicos como el estrés laboral y el agotamiento. 
 
 ![dolor](img/dolormuscular.jpg)
 
-## Los riesgos laborales y su prevencion en el ambito informatico
+## La prevencion de riesgos valorales en el ambito informatico.
 
 La prevención de estos riesgos implica aplicar medidas ergonómicas, como el uso de mobiliario y equipos adecuados, realizar pausas activas, ajustar correctamente la iluminación y las pantallas, y fomentar un equilibrio saludable entre trabajo y descanso.
 
