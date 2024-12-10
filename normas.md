@@ -1,5 +1,5 @@
 # Normas Internacionales sobre Seguridad Laboral
-![seguridad](img/seguridad.jpg)
+![seguridad](img/seguridad1.jpg)
 
 Las normas internacionales sobre seguridad laboral establecen reglas para proteger a los trabajadores y prevenir riesgos en cualquier entorno laboral. Están desarrolladas por organizaciones como la OIT y la ISO, y su objetivo es garantizar condiciones laborales seguras y dignas.
 ## Principales Normas
