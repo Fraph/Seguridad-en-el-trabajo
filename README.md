@@ -8,7 +8,7 @@
 5. [Regulaciones y legislación en Europa sobre seguridad laboral](regulacion.md)
 6. [Evaluación del desempeño en seguridad laboral](evaluacion.md)
 ---
-![sx](img/sx.jpg)
+![sx](img/seguridad.jpg)
 
 ---
 [Conclusiones](Conclusiones.md)
