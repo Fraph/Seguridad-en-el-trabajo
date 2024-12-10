@@ -1,6 +1,4 @@
 ![Descripción de la imagen](img/aa.jpg)
-)
-
 
 ## Regulaciones y Legislación en Europa Sobre Seguridad Laboral
 
