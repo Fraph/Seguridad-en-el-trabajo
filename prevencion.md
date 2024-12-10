@@ -1,3 +1,6 @@
+![Descripción de la imagen](img/aa.jpg)
+
+
 # Prevencion de riesgos laborales
 
 La **prevención de riesgos laborales** consiste en identificar, evaluar y controlar los peligros en el entorno de trabajo para proteger la salud y seguridad de los empleados. Su objetivo es evitar accidentes y enfermedades laborales mediante medidas de seguridad, formación y el uso de equipos adecuados. Esta práctica mejora el bienestar de los trabajadores y la productividad de la empresa.
