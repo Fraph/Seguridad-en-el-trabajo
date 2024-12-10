@@ -1,3 +1,6 @@
+![Descripción de la imagen](img/relativa/imagen.png)
+
+
 ## Los objetivos de la Evaluación del desempeño en seguridad laboral son:
 
 - Medir la efectividad de las políticas de seguridad: Ver si las medidas de seguridad están funcionando bien.
