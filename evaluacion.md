@@ -1,4 +1,4 @@
-![Descripción de la imagen](img/relativa/imagen.png)
+![Descripción de la imagen](img/uu.jpg)
 
 
 ## Los objetivos de la Evaluación del desempeño en seguridad laboral son:
