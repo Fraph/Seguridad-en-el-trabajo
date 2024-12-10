@@ -11,12 +11,5 @@
 ![sx](img/seguridad.jpg)
 
 ---
-[Conclusiones](Conclusiones.md)
-
-[Mapa conceptual](Mapa.md)
-
-[Glosario](Glosario.md)
-
-[Referencias](Referencias.md)
 
 [Autores](Autores.md)
